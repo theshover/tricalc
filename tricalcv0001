@@ -1,0 +1,10 @@
+a = true
+b = true
+c = true
+
+def 
+   if a = true 
+   then pass 
+   else set a = null 
+ while a = false
+  then del a
