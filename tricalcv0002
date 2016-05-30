@@ -1,0 +1,40 @@
+A = true # I am but a simple programmer tending to my code
+B = true # just setting up the variables
+C = true # another one
+
+import ( testtricalc1.txt )
+
+pass raw_input ( print ("please enter what A eqauls") ) # who what do how fuck
+pass raw_input ( print ("please enter what B eqauls") )
+pass raw_input ( print ("please enter what C eqauls") )
+
+A^2 + B^2 == C^2
+
+def  # defintion beyond defintion
+   if A = true 
+   then pass 
+   else set A = null 
+ while A = false
+  then del A
+ abs ( int ( A ) )
+  return ()
+  
+def # just another thing in a snake belly
+   if B = true
+    then pass
+     else set B = null
+   while B = false
+    then del B
+ abs ( int ( B ) )
+  return ()
+
+def # the final one
+   if C = true
+    then pass
+     else set C = null
+   while C = false
+    then del C
+ abs ( int ( C ) )
+  return ()
+ 
+ end # buh bye
