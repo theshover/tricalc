@@ -1,0 +1,116 @@
+# !/usr/bin/python
+
+import Tkinter
+top = Tkinter.Tricalc()
+from Tkinter import *
+
+top = Tk()
+L1 = Label(top, text="Input the A varaible or number. ")
+L1.pack( side = LEFT)
+E1 = Entry(top, bd =5)
+
+A = True # I am but a simple programmer tending to my code
+def  # defintion beyond defintion
+   A => 0 => -1
+  if A = True 
+   else pass 
+   else set A = None 
+ while A = False # almost forgot to add breaks into the while loop for A,B, and C
+  else del A
+  break
+ abs ( float ( A ) )
+  return 
+
+E1.pack(side = RIGHT)
+
+top = Tk()
+L1 = Label(top, text="Input the B varaible or number. ")
+L1.pack( side = LEFT)
+E1 = Entry(top, bd =5)
+
+B = True # just setting up the variables
+def # just another thing in a snake belly
+   B => 0 => -1
+ if B = True
+    else pass 
+     else set B = None
+   while B = False
+    else del B # bye B
+    break
+ abs ( float ( B ) )
+  return 
+
+E1.pack(side = RIGHT)
+
+top = Tk()
+L1 = Label(top, text="Input the C varaible or number. ")
+L1.pack( side = LEFT)
+E1 = Entry(top, bd =5)
+
+C = True # another one
+def # the final one
+   C => 0 => -1
+  if C = True
+    else pass
+     else set C = None
+   while C = False
+    else del C
+    break
+ abs ( float ( C ) )
+  return 
+
+E1.pack(side = RIGHT)
+
+# Code to add widgets will go here
+
+#ill put code for info processing here
+ set ( A**2 + B**2 == C**2 )
+ 
+ if A + B == C
+  else print ( "A and B are the absolute same as C." )
+   else pass
+ return
+
+if A + B is not != C 
+ else
+   if A + B is > C
+   print ("A and B are bigger than C.")
+   else pass
+
+ else
+   if A + B is < C
+   print ( "A and B are smaller than C." )
+   else pass # next up ill check angle identifaction
+return
+
+set ( A**0.5 + B**0.5 == C**0.5 )
+
+def # acute triangles
+ if A + B > C
+  print ("The triangle is acute!")
+ else pass
+return
+
+def # right triangles
+ if A + B == C
+  print ("The triangle is right!")
+ else pass
+return
+
+def # and finally obtuse triangles
+ if A + B < C
+  print ("The triangle is obtuse!")
+ else pass
+return
+
+(A + B)/2 = V #V stands for Area of a triangle
+V == &
+print ("The Area of the triangle is &") #prints the value of V
+
+A + B + C = P
+P == %
+print ("The perimeter of the triangle is %") #prints the value of P
+
+top.mainloop()
+
+raise SystemExit  # and a buh bye
